@@ -13,8 +13,12 @@ public class HomePageTest extends BaseTest {
 		
 	}
 	@Test
-	public void Test() {
-		System.out.println("test");		
+	public void test1() {
+		System.out.println("Test1");
+	}
+	@Test
+	public void Test2() {
+		System.out.println("test2");
 	}
 
 }
